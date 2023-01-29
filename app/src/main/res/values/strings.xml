@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TCG Pokemon </string>
+    <string name="search_here">Search here …</string>
+    <string name="search">search</string>
+    <string name="pokemon_card">pokemon card</string>
+    <string name="back">back</string>
+    <string name="pokemon_detail">Pokemon Detail</string>
+    <string name="download">download</string>
+    <string name="name">Name:</string>
+    <string name="type">Types</string>
+    <string name="retry">Retry</string>
+    <string name="empty_state_message">Can not find any pokemon.</string>
+    <string name="error_state_message">There\'s an error when fetching pokemon data.</string>
+    <string name="error_state_image">Error when loading the image</string>
+    <string name="level">Level</string>
+    <string name="health_point">Health Point</string>
+</resources>
