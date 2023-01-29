@@ -29,6 +29,8 @@ class PokemonSearchbarActivity : AppCompatActivity() {
         binding = ActivityPokemonSearchbarBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        binding.tvErrorState.visibility = View.GONE
+
 //        initAdapter()
         onSearchPokemon()
 //        onRefreshListener()
